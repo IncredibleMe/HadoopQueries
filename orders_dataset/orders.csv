@@ -1,0 +1,331 @@
+ORDER_NUMBER|ORDER_DATE|SHIPPED_DATE|STATUS|COMMENTS|CUSTOMER_NUMBER|CUSTOMER_NAME|CUST_CITY|CUST_STATE|CUST_COUNTRY|CUST_COUNTRY_ISO|SALES_CURRENCY|SALES_REP_ID|SALES_REP_FIRSTNAME|SALES_REP_LASTNAME|OFFICE_CODE|REPORTING_PATH|OFFICE_CITY|OFFICE_STATE|OFFICE_TERRITORY|OFFICE_COUNTRY
+11000|2003-01-06 12:00:00|2003-01-10 12:00:00|Shipped||100|Audio Video 'R' Us|Orlando|FL|USA|US|USD|1|Diane|Murphy|1|-1|San Francisco|CA|NA|USA
+10206|2003-12-05 00:00:00|2003-12-08 00:00:00|Shipped|Can we renegotiate this one?|202|Canadian Gift Exchange Network|Vancouver|BC|Canada|CA|CAD|1|Diane|Murphy|1|-1|San Francisco|CA|NA|USA
+10149|2003-09-12 00:00:00|2003-09-17 00:00:00|Shipped||487|Signal Collectibles Ltd.|Brisbane|CA|USA|US|USD|1|Diane|Murphy|1|-1|San Francisco|CA|NA|USA
+10398|2005-03-30 00:00:00|2005-03-31 00:00:00|Shipped||353|Reims Collectables|Reims||France|FR|EUR|2|Mary|Patterson|1|1,-1|San Francisco|CA|NA|USA
+10359|2004-12-15 00:00:00|2004-12-18 00:00:00|Shipped||353|Reims Collectables|Reims||France|FR|EUR|2|Mary|Patterson|1|1,-1|San Francisco|CA|NA|USA
+10342|2004-11-24 00:00:00|2004-11-29 00:00:00|Shipped||114|Australian Collectors, Co.|Melbourne|Victoria|Australia|AU|AUD|2|Mary|Patterson|1|1,-1|San Francisco|CA|NA|USA
+10328|2004-11-12 00:00:00|2004-11-18 00:00:00|Shipped|Customer very concerned about the exact color of the models. There is high risk that he may dispute the order because there is a slight color mismatch|278|Rovelli Gifts|Bergamo||Italy|IT|EUR|2|Mary|Patterson|1|1,-1|San Francisco|CA|NA|USA
+10323|2004-11-05 00:00:00|2004-11-09 00:00:00|Shipped||128|Blauer See Auto, Co.|Frankfurt||Germany|DE|EUR|2|Mary|Patterson|1|1,-1|San Francisco|CA|NA|USA
+10315|2004-10-29 00:00:00|2004-10-30 00:00:00|Shipped||119|La Rochelle Gifts|Nantes||France|FR|EUR|2|Mary|Patterson|1|1,-1|San Francisco|CA|NA|USA
+10314|2004-10-22 00:00:00|2004-10-23 00:00:00|Shipped||227|Heintze Collectables|u00c5rhus||Denmark|DK|DKK|2|Mary|Patterson|1|1,-1|San Francisco|CA|NA|USA
+10313|2004-10-22 00:00:00|2004-10-25 00:00:00|Shipped|Customer requested that FedEx Ground is used for this shipping|202|Canadian Gift Exchange Network|Vancouver|BC|Canada|CA|CAD|2|Mary|Patterson|1|1,-1|San Francisco|CA|NA|USA
+10307|2004-10-14 00:00:00|2004-10-20 00:00:00|Shipped||339|Classic Gift Ideas, Inc|Philadelphia|PA|USA|US|USD|2|Mary|Patterson|1|1,-1|San Francisco|CA|NA|USA
+10281|2004-08-19 00:00:00|2004-08-23 00:00:00|Shipped||157|Diecast Classics Inc.|Allentown|PA|USA|US|USD|2|Mary|Patterson|1|1,-1|San Francisco|CA|NA|USA
+10248|2004-05-07 00:00:00|2006-08-23 11:49:15|Cancelled|Order was mistakenly placed. The warehouse noticed the lack of documentation.|131|Land of Toys Inc.|NYC|NY|USA|US|USD|2|Mary|Patterson|1|1,-1|San Francisco|CA|NA|USA
+10182|2003-11-12 00:00:00|2003-11-18 00:00:00|Shipped||124|Mini Gifts Distributors Ltd.|San Rafael|CA|USA|US|USD|2|Mary|Patterson|1|1,-1|San Francisco|CA|NA|USA
+10151|2003-09-21 00:00:00|2003-09-24 00:00:00|Shipped||311|Oulu Toy Supplies, Inc.|Oulu||Finland|FI|EUR|2|Mary|Patterson|1|1,-1|San Francisco|CA|NA|USA
+10112|2003-03-24 00:00:00|2003-03-29 00:00:00|Shipped|Customer requested that ad materials (such as posters, pamphlets) be included in the shippment|144|Volvo Model Replicas, Co|Luleu00e5||Sweden|SE|SEK|2|Mary|Patterson|1|1,-1|San Francisco|CA|NA|USA
+10111|2003-03-25 00:00:00|2003-03-30 00:00:00|Shipped||129|Mini Wheels Co.|San Francisco|CA|USA|US|USD|2|Mary|Patterson|1|1,-1|San Francisco|CA|NA|USA
+10107|2003-02-24 00:00:00|2003-02-26 00:00:00|Shipped|Difficult to negotiate with customer. We need more marketing materials|131|Land of Toys Inc.|NYC|NY|USA|US|USD|2|Mary|Patterson|1|1,-1|San Francisco|CA|NA|USA
+10101|2003-01-09 00:00:00|2003-01-11 00:00:00|Shipped|Check on availability.|128|Blauer See Auto, Co.|Frankfurt||Germany|DE|EUR|2|Mary|Patterson|1|1,-1|San Francisco|CA|NA|USA
+10403|2005-04-08 00:00:00|2005-04-11 00:00:00|Shipped||201|UK Collectables, Ltd.|Liverpool||UK|UK|GBP|3|Jeff|Firrelli|1|1,-1|San Francisco|CA|NA|USA
+10376|2005-02-08 00:00:00|2005-02-13 00:00:00|Shipped||219|Boards & Toys Co.|Glendale|CA|USA|US|USD|3|Jeff|Firrelli|1|1,-1|San Francisco|CA|NA|USA
+10347|2004-11-29 00:00:00|2004-11-30 00:00:00|Shipped|Can we deliver the new Ford Mustang models by end-of-quarter?|114|Australian Collectors, Co.|Melbourne|Victoria|Australia|AU|AUD|3|Jeff|Firrelli|1|1,-1|San Francisco|CA|NA|USA
+10310|2004-10-16 00:00:00|2004-10-18 00:00:00|Shipped||259|Toms Spezialitu00e4ten, Ltd|Ku00f6ln||Germany|DE|EUR|3|Jeff|Firrelli|1|1,-1|San Francisco|CA|NA|USA
+10293|2004-09-09 00:00:00|2004-09-14 00:00:00|Shipped||249|Amica Models & Co.|Torino||Italy|IT|EUR|3|Jeff|Firrelli|1|1,-1|San Francisco|CA|NA|USA
+10255|2004-06-04 00:00:00|2004-06-09 00:00:00|Shipped||209|Mini Caravy|Strasbourg||France|FR|EUR|3|Jeff|Firrelli|1|1,-1|San Francisco|CA|NA|USA
+10243|2004-04-26 00:00:00|2004-04-28 00:00:00|Shipped||495|Diecast Collectables|Boston|MA|USA|US|USD|3|Jeff|Firrelli|1|1,-1|San Francisco|CA|NA|USA
+10198|2003-11-27 00:00:00|2003-12-03 00:00:00|Shipped||385|Cruz & Sons Co.|Makati City||Philippines|PH|PHP|3|Jeff|Firrelli|1|1,-1|San Francisco|CA|NA|USA
+10122|2003-05-08 00:00:00|2003-05-13 00:00:00|Shipped||350|Marseille Mini Autos|Marseille||France|FR|EUR|3|Jeff|Firrelli|1|1,-1|San Francisco|CA|NA|USA
+10116|2003-04-11 00:00:00|2003-04-13 00:00:00|Shipped||381|Royale Belge|Charleroi||Belgium|BE|EUR|3|Jeff|Firrelli|1|1,-1|San Francisco|CA|NA|USA
+10423|2005-05-30 00:00:00|2006-08-23 11:49:20|In Process||314|Petit Auto|Bruxelles||Belgium|BE|EUR|4|William|Patterson|6|2,1,-1|Sydney||APAC|Australia
+10418|2005-05-16 00:00:00|2005-05-20 00:00:00|Shipped||412|Extreme Desk Decorations, Ltd|Wellington||New Zealand|NZ|NZD|4|William|Patterson|6|2,1,-1|Sydney||APAC|Australia
+10395|2005-03-17 00:00:00|2005-03-23 00:00:00|Shipped|We must be cautions with this customer. Their VP of Sales resigned. Company may be heading down.|250|Lyon Souveniers|Paris||France|FR|EUR|4|William|Patterson|6|2,1,-1|Sydney||APAC|Australia
+10394|2005-03-15 00:00:00|2005-03-19 00:00:00|Shipped||141|Euro+ Shopping Channel|Madrid||Spain|ES|EUR|4|William|Patterson|6|2,1,-1|Sydney||APAC|Australia
+10370|2005-01-20 00:00:00|2005-01-25 00:00:00|Shipped||276|Anna's Decorations, Ltd|North Sydney|NSW|Australia|AU|AUD|4|William|Patterson|6|2,1,-1|Sydney||APAC|Australia
+10345|2004-11-25 00:00:00|2004-11-26 00:00:00|Shipped||103|Atelier graphique|Nantes||France|FR|EUR|4|William|Patterson|6|2,1,-1|Sydney||APAC|Australia
+10299|2004-09-30 00:00:00|2004-10-01 00:00:00|Shipped||186|Toys of Finland, Co.|Helsinki||Finland|FI|EUR|4|William|Patterson|6|2,1,-1|Sydney||APAC|Australia
+10286|2004-08-28 00:00:00|2004-09-01 00:00:00|Shipped||172|La Corne D'abondance, Co.|Paris||France|FR|EUR|4|William|Patterson|6|2,1,-1|Sydney||APAC|Australia
+10168|2003-10-28 00:00:00|2003-11-01 00:00:00|Shipped||161|Technics Stores Inc.|Burlingame|CA|USA|US|USD|4|William|Patterson|6|2,1,-1|Sydney||APAC|Australia
+10161|2003-10-17 00:00:00|2003-10-20 00:00:00|Shipped||227|Heintze Collectables|u00c5rhus||Denmark|DK|DKK|4|William|Patterson|6|2,1,-1|Sydney||APAC|Australia
+10114|2003-04-01 00:00:00|2003-04-02 00:00:00|Shipped||172|La Corne D'abondance, Co.|Paris||France|FR|EUR|4|William|Patterson|6|2,1,-1|Sydney||APAC|Australia
+10110|2003-03-18 00:00:00|2003-03-20 00:00:00|Shipped||187|AV Stores, Co.|Manchester||UK|UK|GBP|4|William|Patterson|6|2,1,-1|Sydney||APAC|Australia
+10102|2003-01-10 00:00:00|2003-01-14 00:00:00|Shipped||181|Vitachrome Inc.|NYC|NY|USA|US|USD|4|William|Patterson|6|2,1,-1|Sydney||APAC|Australia
+11140|2003-01-06 12:00:00|2003-01-10 12:00:00|Shipped||97|Madison Inc|ST  AUGUSTINE|FL|USA|US|USD|5|Gerard|Bondur|4|2,1,-1|Paris||EMEA|France
+10410|2005-04-29 00:00:00|2005-04-30 00:00:00|Shipped||357|GiftsForHim.com|Auckland||New Zealand|NZ|NZD|5|Gerard|Bondur|4|2,1,-1|Paris||EMEA|France
+10405|2005-04-14 00:00:00|2005-04-20 00:00:00|Shipped||209|Mini Caravy|Strasbourg||France|FR|EUR|5|Gerard|Bondur|4|2,1,-1|Paris||EMEA|France
+10404|2005-04-08 00:00:00|2005-04-11 00:00:00|Shipped||323|Down Under Souveniers, Inc|Auckland||New Zealand|NZ|NZD|5|Gerard|Bondur|4|2,1,-1|Paris||EMEA|France
+10374|2005-02-02 00:00:00|2005-02-03 00:00:00|Shipped||333|Australian Gift Network, Co|South Brisbane|Queensland|Australia|AU|AUD|5|Gerard|Bondur|4|2,1,-1|Paris||EMEA|France
+10360|2004-12-16 00:00:00|2004-12-18 00:00:00|Shipped||496|Kelly's Gift Shop|Auckland||New Zealand|NZ|NZD|5|Gerard|Bondur|4|2,1,-1|Paris||EMEA|France
+10348|2004-11-01 00:00:00|2004-11-05 00:00:00|Shipped||458|Corrida Auto Replicas, Ltd|Madrid||Spain|ES|EUR|5|Gerard|Bondur|4|2,1,-1|Paris||EMEA|France
+10322|2004-11-04 00:00:00|2004-11-10 00:00:00|Shipped|Customer has worked with some of our vendors in the past and is aware of their MSRP|363|Online Diecast Creations Co.|Nashua|NH|USA|US|USD|5|Gerard|Bondur|4|2,1,-1|Paris||EMEA|France
+10302|2003-10-06 00:00:00|2003-10-07 00:00:00|Shipped||201|UK Collectables, Ltd.|Liverpool||UK|UK|GBP|5|Gerard|Bondur|4|2,1,-1|Paris||EMEA|France
+10291|2004-09-08 00:00:00|2004-09-14 00:00:00|Shipped||448|Scandinavian Gift Ideas|Bru00e4cke||Sweden|SE|SEK|5|Gerard|Bondur|4|2,1,-1|Paris||EMEA|France
+10282|2004-08-20 00:00:00|2004-08-22 00:00:00|Shipped||124|Mini Gifts Distributors Ltd.|San Rafael|CA|USA|US|USD|5|Gerard|Bondur|4|2,1,-1|Paris||EMEA|France
+10274|2004-07-21 00:00:00|2004-07-22 00:00:00|Shipped||379|Collectables For Less Inc.|Brickhaven|MA|USA|US|USD|5|Gerard|Bondur|4|2,1,-1|Paris||EMEA|France
+10262|2004-06-24 00:00:00|2006-08-23 11:49:15|Cancelled|This customer found a better offer from one of our competitors. Will call back to renegotiate.|141|Euro+ Shopping Channel|Madrid||Spain|ES|EUR|5|Gerard|Bondur|4|2,1,-1|Paris||EMEA|France
+10259|2004-06-15 00:00:00|2004-06-17 00:00:00|Shipped||166|Handji Gifts& Co|Singapore||Singapore|SG|SGD|5|Gerard|Bondur|4|2,1,-1|Paris||EMEA|France
+10249|2004-05-08 00:00:00|2004-05-11 00:00:00|Shipped|Can we deliver the new Ford Mustang models by end-of-quarter?|173|Cambridge Collectables Co.|Cambridge|MA|USA|US|USD|5|Gerard|Bondur|4|2,1,-1|Paris||EMEA|France
+10246|2004-05-05 00:00:00|2004-05-06 00:00:00|Shipped||141|Euro+ Shopping Channel|Madrid||Spain|ES|EUR|5|Gerard|Bondur|4|2,1,-1|Paris||EMEA|France
+10242|2004-04-20 00:00:00|2004-04-25 00:00:00|Shipped|Customer is interested in buying more Ferrari models|456|Microscale Inc.|NYC|NY|USA|US|USD|5|Gerard|Bondur|4|2,1,-1|Paris||EMEA|France
+10232|2004-03-20 00:00:00|2004-03-25 00:00:00|Shipped||240|giftsbymail.co.uk|Cowes|Isle of Wight|UK|UK|GBP|5|Gerard|Bondur|4|2,1,-1|Paris||EMEA|France
+10227|2004-03-02 00:00:00|2004-03-08 00:00:00|Shipped||146|Saveley & Henriot, Co.|Lyon||France|FR|EUR|5|Gerard|Bondur|4|2,1,-1|Paris||EMEA|France
+10212|2004-01-16 00:00:00|2004-01-18 00:00:00|Shipped||141|Euro+ Shopping Channel|Madrid||Spain|ES|EUR|5|Gerard|Bondur|4|2,1,-1|Paris||EMEA|France
+10180|2003-11-11 00:00:00|2003-11-14 00:00:00|Shipped||171|Daedalus Designs Imports|Lille||France|FR|EUR|5|Gerard|Bondur|4|2,1,-1|Paris||EMEA|France
+10163|2003-10-20 00:00:00|2003-10-24 00:00:00|Shipped||424|Classic Legends Inc.|NYC|NY|USA|US|USD|5|Gerard|Bondur|4|2,1,-1|Paris||EMEA|France
+10154|2003-10-02 00:00:00|2003-10-08 00:00:00|Shipped||219|Boards & Toys Co.|Glendale|CA|USA|US|USD|5|Gerard|Bondur|4|2,1,-1|Paris||EMEA|France
+10153|2003-09-28 00:00:00|2003-10-03 00:00:00|Shipped||141|Euro+ Shopping Channel|Madrid||Spain|ES|EUR|5|Gerard|Bondur|4|2,1,-1|Paris||EMEA|France
+10421|2005-05-29 00:00:00|2006-08-23 11:49:20|In Process|Custom shipping instructions were sent to warehouse|124|Mini Gifts Distributors Ltd.|San Rafael|CA|USA|US|USD|6|Anthony|Bow|1|2,1,-1|San Francisco|CA|NA|USA
+10409|2005-04-23 00:00:00|2005-04-24 00:00:00|Shipped||166|Handji Gifts& Co|Singapore||Singapore|SG|SGD|6|Anthony|Bow|1|2,1,-1|San Francisco|CA|NA|USA
+10408|2005-04-22 00:00:00|2005-04-27 00:00:00|Shipped||398|Tokyo Collectables, Ltd|Minato-ku|Tokyo|Japan|JP|JPY|6|Anthony|Bow|1|2,1,-1|San Francisco|CA|NA|USA
+10384|2005-02-23 00:00:00|2005-02-27 00:00:00|Shipped||321|Corporate Gift Ideas Co.|San Francisco|CA|USA|US|USD|6|Anthony|Bow|1|2,1,-1|San Francisco|CA|NA|USA
+10358|2004-12-10 00:00:00|2004-12-16 00:00:00|Shipped|Customer requested that DHL is used for this shipping|141|Euro+ Shopping Channel|Madrid||Spain|ES|EUR|6|Anthony|Bow|1|2,1,-1|San Francisco|CA|NA|USA
+10335|2004-11-19 00:00:00|2004-11-23 00:00:00|Shipped||124|Mini Gifts Distributors Ltd.|San Rafael|CA|USA|US|USD|6|Anthony|Bow|1|2,1,-1|San Francisco|CA|NA|USA
+10306|2004-10-14 00:00:00|2004-10-17 00:00:00|Shipped||187|AV Stores, Co.|Manchester||UK|UK|GBP|6|Anthony|Bow|1|2,1,-1|San Francisco|CA|NA|USA
+10236|2004-04-03 00:00:00|2004-04-08 00:00:00|Shipped||486|Motor Mint Distributors Inc.|Philadelphia|PA|USA|US|USD|6|Anthony|Bow|1|2,1,-1|San Francisco|CA|NA|USA
+10216|2004-02-02 00:00:00|2004-02-04 00:00:00|Shipped||256|Auto Associu00e9s & Cie.|Versailles||France|FR|EUR|6|Anthony|Bow|1|2,1,-1|San Francisco|CA|NA|USA
+10211|2004-01-15 00:00:00|2004-01-18 00:00:00|Shipped||406|Auto Canal+ Petit|Paris||France|FR|EUR|6|Anthony|Bow|1|2,1,-1|San Francisco|CA|NA|USA
+10210|2004-01-12 00:00:00|2004-01-20 00:00:00|Shipped||177|Osaka Souveniers Co.|Osaka|Osaka|Japan|JP|JPY|6|Anthony|Bow|1|2,1,-1|San Francisco|CA|NA|USA
+10183|2003-11-13 00:00:00|2003-11-15 00:00:00|Shipped|We need to keep in close contact with their Marketing VP. He is the decision maker for all their purchases.|339|Classic Gift Ideas, Inc|Philadelphia|PA|USA|US|USD|6|Anthony|Bow|1|2,1,-1|San Francisco|CA|NA|USA
+10177|2003-11-07 00:00:00|2003-11-12 00:00:00|Shipped||344|CAF Imports|Madrid||Spain|ES|EUR|6|Anthony|Bow|1|2,1,-1|San Francisco|CA|NA|USA
+10174|2003-11-06 00:00:00|2003-11-10 00:00:00|Shipped||333|Australian Gift Network, Co|South Brisbane|Queensland|Australia|AU|AUD|6|Anthony|Bow|1|2,1,-1|San Francisco|CA|NA|USA
+10140|2003-07-24 00:00:00|2003-07-30 00:00:00|Shipped||161|Technics Stores Inc.|Burlingame|CA|USA|US|USD|6|Anthony|Bow|1|2,1,-1|San Francisco|CA|NA|USA
+10136|2003-07-04 00:00:00|2003-07-06 00:00:00|Shipped|Customer is interested in buying more Ferrari models|242|Alpha Cognac|Toulouse||France|FR|EUR|6|Anthony|Bow|1|2,1,-1|San Francisco|CA|NA|USA
+10124|2003-05-21 00:00:00|2003-05-25 00:00:00|Shipped|Customer very concerned about the exact color of the models. There is high risk that he may dispute the order because there is a slight color mismatch|112|Signal Gift Stores|Las Vegas|NV|USA|US|USD|6|Anthony|Bow|1|2,1,-1|San Francisco|CA|NA|USA
+10120|2003-04-29 00:00:00|2003-05-01 00:00:00|Shipped||114|Australian Collectors, Co.|Melbourne|Victoria|Australia|AU|AUD|6|Anthony|Bow|1|2,1,-1|San Francisco|CA|NA|USA
+10115|2003-04-04 00:00:00|2003-04-07 00:00:00|Shipped||424|Classic Legends Inc.|NYC|NY|USA|US|USD|6|Anthony|Bow|1|2,1,-1|San Francisco|CA|NA|USA
+10417|2005-05-13 00:00:00|2005-05-19 00:00:00|Disputed|Customer doesn't like the colors and precision of the models.|141|Euro+ Shopping Channel|Madrid||Spain|ES|EUR|7|Leslie|Jennings|1|6,2,1,-1|San Francisco|CA|NA|USA
+10356|2004-12-09 00:00:00|2004-12-12 00:00:00|Shipped||250|Lyon Souveniers|Paris||France|FR|EUR|7|Leslie|Jennings|1|6,2,1,-1|San Francisco|CA|NA|USA
+10339|2004-11-23 00:00:00|2004-11-30 00:00:00|Shipped||398|Tokyo Collectables, Ltd|Minato-ku|Tokyo|Japan|JP|JPY|7|Leslie|Jennings|1|6,2,1,-1|San Francisco|CA|NA|USA
+10327|2004-11-10 00:00:00|2004-11-13 00:00:00|Resolved|Order was disputed and resolved on 12/1/04. The Sales Manager was involved. Customer claims the scales of the models don't match what was discussed.|145|Danish Wholesale Imports|Kobenhavn||Denmark|DK|DKK|7|Leslie|Jennings|1|6,2,1,-1|San Francisco|CA|NA|USA
+10280|2004-08-17 00:00:00|2004-08-19 00:00:00|Shipped||249|Amica Models & Co.|Torino||Italy|IT|EUR|7|Leslie|Jennings|1|6,2,1,-1|San Francisco|CA|NA|USA
+10229|2004-03-11 00:00:00|2004-03-12 00:00:00|Shipped||124|Mini Gifts Distributors Ltd.|San Rafael|CA|USA|US|USD|7|Leslie|Jennings|1|6,2,1,-1|San Francisco|CA|NA|USA
+10222|2004-02-19 00:00:00|2004-02-20 00:00:00|Shipped||239|Collectable Mini Designs Co.|San Diego|CA|USA|US|USD|7|Leslie|Jennings|1|6,2,1,-1|San Francisco|CA|NA|USA
+10207|2003-12-09 00:00:00|2003-12-11 00:00:00|Shipped|Check on availability.|495|Diecast Collectables|Boston|MA|USA|US|USD|7|Leslie|Jennings|1|6,2,1,-1|San Francisco|CA|NA|USA
+10196|2003-11-26 00:00:00|2003-12-01 00:00:00|Shipped||455|Super Scale Inc.|New Haven|CT|USA|US|USD|7|Leslie|Jennings|1|6,2,1,-1|San Francisco|CA|NA|USA
+10162|2003-10-18 00:00:00|2003-10-19 00:00:00|Shipped||321|Corporate Gift Ideas Co.|San Francisco|CA|USA|US|USD|7|Leslie|Jennings|1|6,2,1,-1|San Francisco|CA|NA|USA
+10117|2003-04-16 00:00:00|2003-04-17 00:00:00|Shipped||148|Dragon Souveniers, Ltd.|Singapore||Singapore|SG|SGD|7|Leslie|Jennings|1|6,2,1,-1|San Francisco|CA|NA|USA
+10397|2005-03-28 00:00:00|2005-04-01 00:00:00|Shipped||242|Alpha Cognac|Toulouse||France|FR|EUR|8|Leslie|Thompson|1|6,2,1,-1|San Francisco|CA|NA|USA
+10392|2005-03-10 00:00:00|2005-03-12 00:00:00|Shipped||452|Mini Auto Werke|Graz||Austria|AT|EUR|8|Leslie|Thompson|1|6,2,1,-1|San Francisco|CA|NA|USA
+10364|2005-01-06 00:00:00|2005-01-09 00:00:00|Shipped||350|Marseille Mini Autos|Marseille||France|FR|EUR|8|Leslie|Thompson|1|6,2,1,-1|San Francisco|CA|NA|USA
+10361|2004-12-17 00:00:00|2004-12-20 00:00:00|Shipped||282|Souveniers And Things Co.|Chatswood|NSW|Australia|AU|AUD|8|Leslie|Thompson|1|6,2,1,-1|San Francisco|CA|NA|USA
+10351|2004-12-03 00:00:00|2004-12-07 00:00:00|Shipped||324|Stylish Desk Decors, Co.|London||UK|UK|GBP|8|Leslie|Thompson|1|6,2,1,-1|San Francisco|CA|NA|USA
+10304|2004-10-11 00:00:00|2004-10-17 00:00:00|Shipped||256|Auto Associu00e9s & Cie.|Versailles||France|FR|EUR|8|Leslie|Thompson|1|6,2,1,-1|San Francisco|CA|NA|USA
+10300|2003-10-04 00:00:00|2003-10-09 00:00:00|Shipped||128|Blauer See Auto, Co.|Frankfurt||Germany|DE|EUR|8|Leslie|Thompson|1|6,2,1,-1|San Francisco|CA|NA|USA
+10294|2004-09-10 00:00:00|2004-09-14 00:00:00|Shipped||204|Online Mini Collectables|Brickhaven|MA|USA|US|USD|8|Leslie|Thompson|1|6,2,1,-1|San Francisco|CA|NA|USA
+10234|2004-03-30 00:00:00|2004-04-02 00:00:00|Shipped||412|Extreme Desk Decorations, Ltd|Wellington||New Zealand|NZ|NZD|8|Leslie|Thompson|1|6,2,1,-1|San Francisco|CA|NA|USA
+10233|2004-03-29 00:00:00|2004-04-02 00:00:00|Shipped|Customer requested special shippment. The instructions were passed along to the warehouse|328|Tekni Collectables Inc.|Newark|NJ|USA|US|USD|8|Leslie|Thompson|1|6,2,1,-1|San Francisco|CA|NA|USA
+10213|2004-01-22 00:00:00|2004-01-27 00:00:00|Shipped|Difficult to negotiate with customer. We need more marketing materials|489|Double Decker Gift Stores, Ltd|London||UK|UK|GBP|8|Leslie|Thompson|1|6,2,1,-1|San Francisco|CA|NA|USA
+10203|2003-12-02 00:00:00|2003-12-07 00:00:00|Shipped||141|Euro+ Shopping Channel|Madrid||Spain|ES|EUR|8|Leslie|Thompson|1|6,2,1,-1|San Francisco|CA|NA|USA
+10170|2003-11-04 00:00:00|2003-11-07 00:00:00|Shipped||452|Mini Auto Werke|Graz||Austria|AT|EUR|8|Leslie|Thompson|1|6,2,1,-1|San Francisco|CA|NA|USA
+10155|2003-10-06 00:00:00|2003-10-07 00:00:00|Shipped||186|Toys of Finland, Co.|Helsinki||Finland|FI|EUR|8|Leslie|Thompson|1|6,2,1,-1|San Francisco|CA|NA|USA
+10150|2003-09-19 00:00:00|2003-09-21 00:00:00|Shipped|They want to reevaluate their terms agreement with Finance.|148|Dragon Souveniers, Ltd.|Singapore||Singapore|SG|SGD|8|Leslie|Thompson|1|6,2,1,-1|San Francisco|CA|NA|USA
+10121|2003-05-07 00:00:00|2003-05-13 00:00:00|Shipped||353|Reims Collectables|Reims||France|FR|EUR|8|Leslie|Thompson|1|6,2,1,-1|San Francisco|CA|NA|USA
+10416|2005-05-10 00:00:00|2005-05-14 00:00:00|Shipped||386|L'ordine Souveniers|Reggio Emilia||Italy|IT|EUR|9|Julie|Firrelli|2|6,2,1,-1|Boston|MA|NA|USA
+10415|2005-05-09 00:00:00|2005-05-12 00:00:00|Disputed|Customer claims the scales of the models don't match what was discussed. I keep all the paperwork though to prove otherwise|471|Australian Collectables, Ltd|Glen Waverly|Victoria|Australia|AU|AUD|9|Julie|Firrelli|2|6,2,1,-1|Boston|MA|NA|USA
+10377|2005-02-09 00:00:00|2005-02-12 00:00:00|Shipped|Cautious optimism. We have happy customers here, if we can keep them well stocked.  I need all the information I can get on the planned shippments of Porches|186|Toys of Finland, Co.|Helsinki||Finland|FI|EUR|9|Julie|Firrelli|2|6,2,1,-1|Boston|MA|NA|USA
+10344|2004-11-25 00:00:00|2004-11-29 00:00:00|Shipped||350|Marseille Mini Autos|Marseille||France|FR|EUR|9|Julie|Firrelli|2|6,2,1,-1|Boston|MA|NA|USA
+10338|2004-11-22 00:00:00|2004-11-27 00:00:00|Shipped||381|Royale Belge|Charleroi||Belgium|BE|EUR|9|Julie|Firrelli|2|6,2,1,-1|Boston|MA|NA|USA
+10317|2004-11-02 00:00:00|2004-11-08 00:00:00|Shipped||161|Technics Stores Inc.|Burlingame|CA|USA|US|USD|9|Julie|Firrelli|2|6,2,1,-1|Boston|MA|NA|USA
+10316|2004-11-01 00:00:00|2004-11-07 00:00:00|Shipped|Customer requested that ad materials (such as posters, pamphlets) be included in the shippment|240|giftsbymail.co.uk|Cowes|Isle of Wight|UK|UK|GBP|9|Julie|Firrelli|2|6,2,1,-1|Boston|MA|NA|USA
+10277|2004-08-04 00:00:00|2004-08-05 00:00:00|Shipped||148|Dragon Souveniers, Ltd.|Singapore||Singapore|SG|SGD|9|Julie|Firrelli|2|6,2,1,-1|Boston|MA|NA|USA
+10261|2004-06-17 00:00:00|2004-06-22 00:00:00|Shipped||233|Quu00e9bec Home Shopping Network|Montru00e9al|Quu00e9bec|Canada|CA|CAD|9|Julie|Firrelli|2|6,2,1,-1|Boston|MA|NA|USA
+10134|2003-07-01 00:00:00|2003-07-05 00:00:00|Shipped||250|Lyon Souveniers|Paris||France|FR|EUR|9|Julie|Firrelli|2|6,2,1,-1|Boston|MA|NA|USA
+10131|2003-06-16 00:00:00|2003-06-21 00:00:00|Shipped||447|Gift Ideas Corp.|Glendale|CT|USA|US|USD|9|Julie|Firrelli|2|6,2,1,-1|Boston|MA|NA|USA
+11120|2003-01-06 12:00:00|2003-01-10 12:00:00|Shipped||99|Tarallo Inc|Sanford|FL|USA|US|USD|10|Steve|Patterson|2|6,2,1,-1|Boston|MA|NA|USA
+10419|2005-05-17 00:00:00|2005-05-19 00:00:00|Shipped||382|Salzburg Collectables|Salzburg||Austria|AT|EUR|10|Steve|Patterson|2|6,2,1,-1|Boston|MA|NA|USA
+10411|2005-05-01 00:00:00|2005-05-06 00:00:00|Shipped||233|Quu00e9bec Home Shopping Network|Montru00e9al|Quu00e9bec|Canada|CA|CAD|10|Steve|Patterson|2|6,2,1,-1|Boston|MA|NA|USA
+10399|2005-04-01 00:00:00|2005-04-03 00:00:00|Shipped||496|Kelly's Gift Shop|Auckland||New Zealand|NZ|NZD|10|Steve|Patterson|2|6,2,1,-1|Boston|MA|NA|USA
+10346|2004-11-29 00:00:00|2004-11-30 00:00:00|Shipped||112|Signal Gift Stores|Las Vegas|NV|USA|US|USD|10|Steve|Patterson|2|6,2,1,-1|Boston|MA|NA|USA
+10305|2004-10-13 00:00:00|2004-10-15 00:00:00|Shipped|Check on availability.|286|Marta's Replicas Co.|Cambridge|MA|USA|US|USD|10|Steve|Patterson|2|6,2,1,-1|Boston|MA|NA|USA
+10288|2004-09-01 00:00:00|2004-09-05 00:00:00|Shipped||166|Handji Gifts& Co|Singapore||Singapore|SG|SGD|10|Steve|Patterson|2|6,2,1,-1|Boston|MA|NA|USA
+10263|2004-06-28 00:00:00|2004-07-02 00:00:00|Shipped||175|Gift Depot Inc.|Bridgewater|CT|USA|US|USD|10|Steve|Patterson|2|6,2,1,-1|Boston|MA|NA|USA
+10253|2004-06-01 00:00:00|2004-06-02 00:00:00|Cancelled|Customer disputed the order and we agreed to cancel it. We must be more cautions with this customer going forward, since they are very hard to please. We must cover the shipping fees.|201|UK Collectables, Ltd.|Liverpool||UK|UK|GBP|10|Steve|Patterson|2|6,2,1,-1|Boston|MA|NA|USA
+10237|2004-04-05 00:00:00|2004-04-10 00:00:00|Shipped||181|Vitachrome Inc.|NYC|NY|USA|US|USD|10|Steve|Patterson|2|6,2,1,-1|Boston|MA|NA|USA
+10169|2003-11-04 00:00:00|2003-11-09 00:00:00|Shipped||276|Anna's Decorations, Ltd|North Sydney|NSW|Australia|AU|AUD|10|Steve|Patterson|2|6,2,1,-1|Boston|MA|NA|USA
+10167|2003-10-23 00:00:00|2006-08-23 11:49:12|Cancelled|Customer called to cancel. The warehouse was notified in time and the order didn't ship. They have a new VP of Sales and are shifting their sales model. Our VP of Sales should contact them.|448|Scandinavian Gift Ideas|Bru00e4cke||Sweden|SE|SEK|10|Steve|Patterson|2|6,2,1,-1|Boston|MA|NA|USA
+10133|2003-06-27 00:00:00|2003-07-03 00:00:00|Shipped||141|Euro+ Shopping Channel|Madrid||Spain|ES|EUR|10|Steve|Patterson|2|6,2,1,-1|Boston|MA|NA|USA
+10109|2003-03-10 00:00:00|2003-03-11 00:00:00|Shipped|Customer requested that FedEx Ground is used for this shipping|486|Motor Mint Distributors Inc.|Philadelphia|PA|USA|US|USD|10|Steve|Patterson|2|6,2,1,-1|Boston|MA|NA|USA
+10386|2005-03-01 00:00:00|2005-03-06 00:00:00|Resolved|Disputed then Resolved on 3/15/2005. Customer doesn't like the craftsmaship of the models.|141|Euro+ Shopping Channel|Madrid||Spain|ES|EUR|11|Foon Yue|Tseng|3|6,2,1,-1|NYC|NY|NA|USA
+10383|2005-02-22 00:00:00|2005-02-25 00:00:00|Shipped||141|Euro+ Shopping Channel|Madrid||Spain|ES|EUR|11|Foon Yue|Tseng|3|6,2,1,-1|NYC|NY|NA|USA
+10378|2005-02-10 00:00:00|2005-02-11 00:00:00|Shipped||141|Euro+ Shopping Channel|Madrid||Spain|ES|EUR|11|Foon Yue|Tseng|3|6,2,1,-1|NYC|NY|NA|USA
+10333|2004-11-18 00:00:00|2004-11-20 00:00:00|Shipped||129|Mini Wheels Co.|San Francisco|CA|USA|US|USD|11|Foon Yue|Tseng|3|6,2,1,-1|NYC|NY|NA|USA
+10332|2004-11-17 00:00:00|2004-11-18 00:00:00|Shipped||187|AV Stores, Co.|Manchester||UK|UK|GBP|11|Foon Yue|Tseng|3|6,2,1,-1|NYC|NY|NA|USA
+10238|2004-04-09 00:00:00|2004-04-10 00:00:00|Shipped||145|Danish Wholesale Imports|Kobenhavn||Denmark|DK|DKK|11|Foon Yue|Tseng|3|6,2,1,-1|NYC|NY|NA|USA
+10128|2003-06-06 00:00:00|2003-06-11 00:00:00|Shipped||141|Euro+ Shopping Channel|Madrid||Spain|ES|EUR|11|Foon Yue|Tseng|3|6,2,1,-1|NYC|NY|NA|USA
+10118|2003-04-21 00:00:00|2003-04-26 00:00:00|Shipped|Customer has worked with some of our vendors in the past and is aware of their MSRP|216|Enaco Distributors|Barcelona||Spain|ES|EUR|11|Foon Yue|Tseng|3|6,2,1,-1|NYC|NY|NA|USA
+10425|2005-05-31 00:00:00|2006-08-23 11:49:20|In Process||119|La Rochelle Gifts|Nantes||France|FR|EUR|12|George|Vanauf|3|6,2,1,-1|NYC|NY|NA|USA
+10371|2005-01-23 00:00:00|2005-01-25 00:00:00|Shipped||124|Mini Gifts Distributors Ltd.|San Rafael|CA|USA|US|USD|12|George|Vanauf|3|6,2,1,-1|NYC|NY|NA|USA
+10324|2004-11-05 00:00:00|2004-11-08 00:00:00|Shipped||181|Vitachrome Inc.|NYC|NY|USA|US|USD|12|George|Vanauf|3|6,2,1,-1|NYC|NY|NA|USA
+10260|2004-06-16 00:00:00|2006-08-23 11:49:15|Cancelled|Customer heard complaints from their customers and called to cancel this order. Will notify the Sales Manager.|357|GiftsForHim.com|Auckland||New Zealand|NZ|NZD|12|George|Vanauf|3|6,2,1,-1|NYC|NY|NA|USA
+10220|2004-02-12 00:00:00|2004-02-16 00:00:00|Shipped||189|Clover Collections, Co.|Dublin||Ireland|IE|EUR|12|George|Vanauf|3|6,2,1,-1|NYC|NY|NA|USA
+10202|2003-12-02 00:00:00|2003-12-06 00:00:00|Shipped||357|GiftsForHim.com|Auckland||New Zealand|NZ|NZD|12|George|Vanauf|3|6,2,1,-1|NYC|NY|NA|USA
+10201|2003-12-01 00:00:00|2003-12-02 00:00:00|Shipped||129|Mini Wheels Co.|San Francisco|CA|USA|US|USD|12|George|Vanauf|3|6,2,1,-1|NYC|NY|NA|USA
+10195|2003-11-25 00:00:00|2003-11-28 00:00:00|Shipped||319|Mini Classics|White Plains|NY|USA|US|USD|12|George|Vanauf|3|6,2,1,-1|NYC|NY|NA|USA
+10190|2003-11-19 00:00:00|2003-11-20 00:00:00|Shipped||141|Euro+ Shopping Channel|Madrid||Spain|ES|EUR|12|George|Vanauf|3|6,2,1,-1|NYC|NY|NA|USA
+10187|2003-11-15 00:00:00|2003-11-16 00:00:00|Shipped||211|King Kong Collectables, Co.|Central Hong Kong||Hong Kong|HK|HKD|12|George|Vanauf|3|6,2,1,-1|NYC|NY|NA|USA
+10181|2003-11-12 00:00:00|2003-11-15 00:00:00|Shipped||167|Herkku Gifts|Bergen||Norway|NO|NOK|12|George|Vanauf|3|6,2,1,-1|NYC|NY|NA|USA
+10159|2003-10-10 00:00:00|2003-10-16 00:00:00|Shipped||321|Corporate Gift Ideas Co.|San Francisco|CA|USA|US|USD|12|George|Vanauf|3|6,2,1,-1|NYC|NY|NA|USA
+10144|2003-08-13 00:00:00|2003-08-14 00:00:00|Shipped||381|Royale Belge|Charleroi||Belgium|BE|EUR|12|George|Vanauf|3|6,2,1,-1|NYC|NY|NA|USA
+10135|2003-07-02 00:00:00|2003-07-03 00:00:00|Shipped||124|Mini Gifts Distributors Ltd.|San Rafael|CA|USA|US|USD|12|George|Vanauf|3|6,2,1,-1|NYC|NY|NA|USA
+10132|2003-06-25 00:00:00|2003-06-28 00:00:00|Shipped||323|Down Under Souveniers, Inc|Auckland||New Zealand|NZ|NZD|12|George|Vanauf|3|6,2,1,-1|NYC|NY|NA|USA
+10414|2005-05-06 00:00:00|2006-08-23 11:49:20|On Hold|Customer credit limit exceeded. Will ship when a payment is received.|362|Gifts4AllAges.com|Boston|MA|USA|US|USD|13|Loui|Bondur|4|5,2,1,-1|Paris||EMEA|France
+10388|2005-03-03 00:00:00|2005-03-09 00:00:00|Shipped||462|FunGiftIdeas.com|New Bedford|MA|USA|US|USD|13|Loui|Bondur|4|5,2,1,-1|Paris||EMEA|France
+10375|2005-02-03 00:00:00|2005-02-06 00:00:00|Shipped||119|La Rochelle Gifts|Nantes||France|FR|EUR|13|Loui|Bondur|4|5,2,1,-1|Paris||EMEA|France
+10353|2004-12-04 00:00:00|2004-12-05 00:00:00|Shipped||447|Gift Ideas Corp.|Glendale|CT|USA|US|USD|13|Loui|Bondur|4|5,2,1,-1|Paris||EMEA|France
+10325|2004-11-05 00:00:00|2004-11-08 00:00:00|Shipped||121|Baane Mini Imports|Stavern||Norway|NO|NOK|13|Loui|Bondur|4|5,2,1,-1|Paris||EMEA|France
+10297|2004-09-16 00:00:00|2004-09-21 00:00:00|Shipped|We must be cautions with this customer. Their VP of Sales resigned. Company may be heading down.|189|Clover Collections, Co.|Dublin||Ireland|IE|EUR|13|Loui|Bondur|4|5,2,1,-1|Paris||EMEA|France
+10296|2004-09-15 00:00:00|2004-09-16 00:00:00|Shipped||415|Bavarian Collectables Imports, Co.|Munich||Germany|DE|EUR|13|Loui|Bondur|4|5,2,1,-1|Paris||EMEA|France
+10272|2004-07-20 00:00:00|2004-07-22 00:00:00|Shipped||157|Diecast Classics Inc.|Allentown|PA|USA|US|USD|13|Loui|Bondur|4|5,2,1,-1|Paris||EMEA|France
+10197|2003-11-26 00:00:00|2003-12-01 00:00:00|Shipped|Customer inquired about remote controlled models and gold models.|216|Enaco Distributors|Barcelona||Spain|ES|EUR|13|Loui|Bondur|4|5,2,1,-1|Paris||EMEA|France
+10165|2003-10-22 00:00:00|2003-12-26 00:00:00|Shipped|This order was on hold because customers's credit limit had been exceeded. Order will ship when payment is received|148|Dragon Souveniers, Ltd.|Singapore||Singapore|SG|SGD|13|Loui|Bondur|4|5,2,1,-1|Paris||EMEA|France
+10152|2003-09-25 00:00:00|2003-10-01 00:00:00|Shipped||333|Australian Gift Network, Co|South Brisbane|Queensland|Australia|AU|AUD|13|Loui|Bondur|4|5,2,1,-1|Paris||EMEA|France
+10141|2003-08-01 00:00:00|2003-08-04 00:00:00|Shipped||334|Suominen Souveniers|Espoo||Finland|FI|EUR|13|Loui|Bondur|4|5,2,1,-1|Paris||EMEA|France
+10127|2003-06-03 00:00:00|2003-06-06 00:00:00|Shipped|Customer requested special shippment. The instructions were passed along to the warehouse|151|Muscle Machine Inc|NYC|NY|USA|US|USD|13|Loui|Bondur|4|5,2,1,-1|Paris||EMEA|France
+10126|2003-05-28 00:00:00|2003-06-02 00:00:00|Shipped||458|Corrida Auto Replicas, Ltd|Madrid||Spain|ES|EUR|13|Loui|Bondur|4|5,2,1,-1|Paris||EMEA|France
+10100|2003-01-06 00:00:00|2003-01-10 00:00:00|Shipped||363|Online Diecast Creations Co.|Nashua|NH|USA|US|USD|13|Loui|Bondur|4|5,2,1,-1|Paris||EMEA|France
+10422|2005-05-30 00:00:00|2006-08-23 11:49:20|In Process||157|Diecast Classics Inc.|Allentown|PA|USA|US|USD|14|Gerard|Hernandez|4|5,2,1,-1|Paris||EMEA|France
+10413|2005-05-05 00:00:00|2005-05-09 00:00:00|Shipped|Customer requested that DHL is used for this shipping|175|Gift Depot Inc.|Bridgewater|CT|USA|US|USD|14|Gerard|Hernandez|4|5,2,1,-1|Paris||EMEA|France
+10365|2005-01-07 00:00:00|2005-01-11 00:00:00|Shipped||320|Mini Creations Ltd.|New Bedford|MA|USA|US|USD|14|Gerard|Hernandez|4|5,2,1,-1|Paris||EMEA|France
+10357|2004-12-10 00:00:00|2004-12-14 00:00:00|Shipped||124|Mini Gifts Distributors Ltd.|San Rafael|CA|USA|US|USD|14|Gerard|Hernandez|4|5,2,1,-1|Paris||EMEA|France
+10341|2004-11-24 00:00:00|2004-11-29 00:00:00|Shipped||382|Salzburg Collectables|Salzburg||Austria|AT|EUR|14|Gerard|Hernandez|4|5,2,1,-1|Paris||EMEA|France
+10334|2004-11-19 00:00:00|2006-08-23 11:49:17|On Hold|The outstaniding balance for this customer exceeds their credit limit. Order will be shipped when a payment is received.|144|Volvo Model Replicas, Co|Luleu00e5||Sweden|SE|SEK|14|Gerard|Hernandez|4|5,2,1,-1|Paris||EMEA|France
+10319|2004-11-03 00:00:00|2004-11-06 00:00:00|Shipped|Customer requested that DHL is used for this shipping|456|Microscale Inc.|NYC|NY|USA|US|USD|14|Gerard|Hernandez|4|5,2,1,-1|Paris||EMEA|France
+10298|2004-09-27 00:00:00|2004-10-01 00:00:00|Shipped||103|Atelier graphique|Nantes||France|FR|EUR|14|Gerard|Hernandez|4|5,2,1,-1|Paris||EMEA|France
+10275|2004-07-23 00:00:00|2004-07-29 00:00:00|Shipped||119|La Rochelle Gifts|Nantes||France|FR|EUR|14|Gerard|Hernandez|4|5,2,1,-1|Paris||EMEA|France
+10273|2004-07-21 00:00:00|2004-07-22 00:00:00|Shipped||314|Petit Auto|Bruxelles||Belgium|BE|EUR|14|Gerard|Hernandez|4|5,2,1,-1|Paris||EMEA|France
+10264|2004-06-30 00:00:00|2004-07-01 00:00:00|Shipped|Customer will send a truck to our local warehouse on 7/1/2004|362|Gifts4AllAges.com|Boston|MA|USA|US|USD|14|Gerard|Hernandez|4|5,2,1,-1|Paris||EMEA|France
+10209|2004-01-09 00:00:00|2004-01-12 00:00:00|Shipped||347|Men 'R' US Retailers, Ltd.|Los Angeles|CA|USA|US|USD|14|Gerard|Hernandez|4|5,2,1,-1|Paris||EMEA|France
+10164|2003-10-21 00:00:00|2003-10-23 00:00:00|Resolved|This order was disputed, but resolved on 11/1/2003; Customer doesn't like the colors and precision of the models.|452|Mini Auto Werke|Graz||Austria|AT|EUR|14|Gerard|Hernandez|4|5,2,1,-1|Paris||EMEA|France
+10146|2003-09-03 00:00:00|2003-09-06 00:00:00|Shipped||447|Gift Ideas Corp.|Glendale|CT|USA|US|USD|14|Gerard|Hernandez|4|5,2,1,-1|Paris||EMEA|France
+10143|2003-08-10 00:00:00|2003-08-12 00:00:00|Shipped|Can we deliver the new Ford Mustang models by end-of-quarter?|320|Mini Creations Ltd.|New Bedford|MA|USA|US|USD|14|Gerard|Hernandez|4|5,2,1,-1|Paris||EMEA|France
+10142|2003-08-08 00:00:00|2003-08-13 00:00:00|Shipped||124|Mini Gifts Distributors Ltd.|San Rafael|CA|USA|US|USD|14|Gerard|Hernandez|4|5,2,1,-1|Paris||EMEA|France
+10137|2003-07-10 00:00:00|2003-07-14 00:00:00|Shipped||353|Reims Collectables|Reims||France|FR|EUR|14|Gerard|Hernandez|4|5,2,1,-1|Paris||EMEA|France
+10104|2003-01-31 00:00:00|2003-02-01 00:00:00|Shipped||141|Euro+ Shopping Channel|Madrid||Spain|ES|EUR|14|Gerard|Hernandez|4|5,2,1,-1|Paris||EMEA|France
+10424|2005-05-31 00:00:00|2006-08-23 11:49:20|In Process||141|Euro+ Shopping Channel|Madrid||Spain|ES|EUR|15|Pamela|Castillo|4|5,2,1,-1|Paris||EMEA|France
+10387|2005-03-02 00:00:00|2005-03-06 00:00:00|Shipped|We need to keep in close contact with their Marketing VP. He is the decision maker for all their purchases.|148|Dragon Souveniers, Ltd.|Singapore||Singapore|SG|SGD|15|Pamela|Castillo|4|5,2,1,-1|Paris||EMEA|France
+10379|2005-02-10 00:00:00|2005-02-11 00:00:00|Shipped||141|Euro+ Shopping Channel|Madrid||Spain|ES|EUR|15|Pamela|Castillo|4|5,2,1,-1|Paris||EMEA|France
+10320|2004-11-03 00:00:00|2004-11-07 00:00:00|Shipped||144|Volvo Model Replicas, Co|Luleu00e5||Sweden|SE|SEK|15|Pamela|Castillo|4|5,2,1,-1|Paris||EMEA|France
+10311|2004-10-16 00:00:00|2004-10-20 00:00:00|Shipped|Difficult to negotiate with customer. We need more marketing materials|141|Euro+ Shopping Channel|Madrid||Spain|ES|EUR|15|Pamela|Castillo|4|5,2,1,-1|Paris||EMEA|France
+10279|2004-08-09 00:00:00|2004-08-15 00:00:00|Shipped|Cautious optimism. We have happy customers here, if we can keep them well stocked.  I need all the information I can get on the planned shippments of Porches|141|Euro+ Shopping Channel|Madrid||Spain|ES|EUR|15|Pamela|Castillo|4|5,2,1,-1|Paris||EMEA|France
+10278|2004-08-06 00:00:00|2004-08-09 00:00:00|Shipped||112|Signal Gift Stores|Las Vegas|NV|USA|US|USD|15|Pamela|Castillo|4|5,2,1,-1|Paris||EMEA|France
+10258|2004-06-15 00:00:00|2004-06-23 00:00:00|Shipped||398|Tokyo Collectables, Ltd|Minato-ku|Tokyo|Japan|JP|JPY|15|Pamela|Castillo|4|5,2,1,-1|Paris||EMEA|France
+10228|2004-03-10 00:00:00|2004-03-13 00:00:00|Shipped||173|Cambridge Collectables Co.|Cambridge|MA|USA|US|USD|15|Pamela|Castillo|4|5,2,1,-1|Paris||EMEA|France
+10223|2004-02-20 00:00:00|2004-02-24 00:00:00|Shipped||114|Australian Collectors, Co.|Melbourne|Victoria|Australia|AU|AUD|15|Pamela|Castillo|4|5,2,1,-1|Paris||EMEA|France
+10221|2004-02-18 00:00:00|2004-02-19 00:00:00|Shipped||314|Petit Auto|Bruxelles||Belgium|BE|EUR|15|Pamela|Castillo|4|5,2,1,-1|Paris||EMEA|France
+10204|2003-12-02 00:00:00|2003-12-04 00:00:00|Shipped||151|Muscle Machine Inc|NYC|NY|USA|US|USD|15|Pamela|Castillo|4|5,2,1,-1|Paris||EMEA|France
+10171|2003-11-05 00:00:00|2003-11-07 00:00:00|Shipped||233|Quu00e9bec Home Shopping Network|Montru00e9al|Quu00e9bec|Canada|CA|CAD|15|Pamela|Castillo|4|5,2,1,-1|Paris||EMEA|France
+10156|2003-10-08 00:00:00|2003-10-11 00:00:00|Shipped||141|Euro+ Shopping Channel|Madrid||Spain|ES|EUR|15|Pamela|Castillo|4|5,2,1,-1|Paris||EMEA|France
+10105|2003-02-11 00:00:00|2003-02-12 00:00:00|Shipped||145|Danish Wholesale Imports|Kobenhavn||Denmark|DK|DKK|15|Pamela|Castillo|4|5,2,1,-1|Paris||EMEA|France
+10401|2005-04-03 00:00:00|2006-08-23 11:49:20|On Hold|Customer credit limit exceeded. Will ship when a payment is received.|328|Tekni Collectables Inc.|Newark|NJ|USA|US|USD|16|Larry|Bott|7|5,2,1,-1|London||EMEA|UK
+10354|2004-12-04 00:00:00|2004-12-05 00:00:00|Shipped||323|Down Under Souveniers, Inc|Auckland||New Zealand|NZ|NZD|16|Larry|Bott|7|5,2,1,-1|London||EMEA|UK
+10337|2004-11-21 00:00:00|2004-11-26 00:00:00|Shipped||424|Classic Legends Inc.|NYC|NY|USA|US|USD|16|Larry|Bott|7|5,2,1,-1|London||EMEA|UK
+10331|2004-11-17 00:00:00|2004-11-23 00:00:00|Shipped|Customer requested special shippment. The instructions were passed along to the warehouse|486|Motor Mint Distributors Inc.|Philadelphia|PA|USA|US|USD|16|Larry|Bott|7|5,2,1,-1|London||EMEA|UK
+10312|2004-10-21 00:00:00|2004-10-23 00:00:00|Shipped||124|Mini Gifts Distributors Ltd.|San Rafael|CA|USA|US|USD|16|Larry|Bott|7|5,2,1,-1|London||EMEA|UK
+10309|2004-10-15 00:00:00|2004-10-18 00:00:00|Shipped||121|Baane Mini Imports|Stavern||Norway|NO|NOK|16|Larry|Bott|7|5,2,1,-1|London||EMEA|UK
+10266|2004-07-06 00:00:00|2004-07-10 00:00:00|Shipped||386|L'ordine Souveniers|Reggio Emilia||Italy|IT|EUR|16|Larry|Bott|7|5,2,1,-1|London||EMEA|UK
+10241|2004-04-13 00:00:00|2004-04-19 00:00:00|Shipped||209|Mini Caravy|Strasbourg||France|FR|EUR|16|Larry|Bott|7|5,2,1,-1|London||EMEA|UK
+10179|2003-11-11 00:00:00|2003-11-13 00:00:00|Cancelled|Customer cancelled due to urgent budgeting issues. Must be cautious when dealing with them in the future. Since order shipped already we must discuss who would cover the shipping charges.|496|Kelly's Gift Shop|Auckland||New Zealand|NZ|NZD|16|Larry|Bott|7|5,2,1,-1|London||EMEA|UK
+10166|2003-10-21 00:00:00|2003-10-27 00:00:00|Shipped||462|FunGiftIdeas.com|New Bedford|MA|USA|US|USD|16|Larry|Bott|7|5,2,1,-1|London||EMEA|UK
+10119|2003-04-28 00:00:00|2003-05-02 00:00:00|Shipped||382|Salzburg Collectables|Salzburg||Austria|AT|EUR|16|Larry|Bott|7|5,2,1,-1|London||EMEA|UK
+10412|2005-05-03 00:00:00|2005-05-05 00:00:00|Shipped||141|Euro+ Shopping Channel|Madrid||Spain|ES|EUR|17|Barry|Jones|7|5,2,1,-1|London||EMEA|UK
+10396|2005-03-23 00:00:00|2005-03-28 00:00:00|Shipped||124|Mini Gifts Distributors Ltd.|San Rafael|CA|USA|US|USD|17|Barry|Jones|7|5,2,1,-1|London||EMEA|UK
+10390|2005-03-04 00:00:00|2005-03-07 00:00:00|Shipped|They want to reevaluate their terms agreement with Finance.|124|Mini Gifts Distributors Ltd.|San Rafael|CA|USA|US|USD|17|Barry|Jones|7|5,2,1,-1|London||EMEA|UK
+10385|2005-02-28 00:00:00|2005-03-01 00:00:00|Shipped||124|Mini Gifts Distributors Ltd.|San Rafael|CA|USA|US|USD|17|Barry|Jones|7|5,2,1,-1|London||EMEA|UK
+10380|2005-02-16 00:00:00|2005-02-18 00:00:00|Shipped||141|Euro+ Shopping Channel|Madrid||Spain|ES|EUR|17|Barry|Jones|7|5,2,1,-1|London||EMEA|UK
+10369|2005-01-20 00:00:00|2005-01-24 00:00:00|Shipped||379|Collectables For Less Inc.|Brickhaven|MA|USA|US|USD|17|Barry|Jones|7|5,2,1,-1|London||EMEA|UK
+10366|2005-01-10 00:00:00|2005-01-12 00:00:00|Shipped||381|Royale Belge|Charleroi||Belgium|BE|EUR|17|Barry|Jones|7|5,2,1,-1|London||EMEA|UK
+10343|2004-11-24 00:00:00|2004-11-26 00:00:00|Shipped||353|Reims Collectables|Reims||France|FR|EUR|17|Barry|Jones|7|5,2,1,-1|London||EMEA|UK
+10321|2004-11-04 00:00:00|2004-11-07 00:00:00|Shipped||462|FunGiftIdeas.com|New Bedford|MA|USA|US|USD|17|Barry|Jones|7|5,2,1,-1|London||EMEA|UK
+10303|2004-10-06 00:00:00|2004-10-09 00:00:00|Shipped|Customer inquired about remote controlled models and gold models.|484|Iberia Gift Imports, Corp.|Sevilla||Spain|ES|EUR|17|Barry|Jones|7|5,2,1,-1|London||EMEA|UK
+10301|2003-10-05 00:00:00|2003-10-08 00:00:00|Shipped||299|Norway Gifts By Mail, Co.|Oslo||Norway|NO|NOK|17|Barry|Jones|7|5,2,1,-1|London||EMEA|UK
+10269|2004-07-16 00:00:00|2004-07-18 00:00:00|Shipped||382|Salzburg Collectables|Salzburg||Austria|AT|EUR|17|Barry|Jones|7|5,2,1,-1|London||EMEA|UK
+10251|2004-05-18 00:00:00|2004-05-24 00:00:00|Shipped||328|Tekni Collectables Inc.|Newark|NJ|USA|US|USD|17|Barry|Jones|7|5,2,1,-1|London||EMEA|UK
+10217|2004-02-04 00:00:00|2004-02-06 00:00:00|Shipped||166|Handji Gifts& Co|Singapore||Singapore|SG|SGD|17|Barry|Jones|7|5,2,1,-1|London||EMEA|UK
+10215|2004-01-29 00:00:00|2004-02-01 00:00:00|Shipped|Customer requested that FedEx Ground is used for this shipping|475|West Coast Collectables Co.|Burbank|CA|USA|US|USD|17|Barry|Jones|7|5,2,1,-1|London||EMEA|UK
+10208|2004-01-02 00:00:00|2004-01-04 00:00:00|Shipped||146|Saveley & Henriot, Co.|Lyon||France|FR|EUR|17|Barry|Jones|7|5,2,1,-1|London||EMEA|UK
+10188|2003-11-18 00:00:00|2003-11-24 00:00:00|Shipped||167|Herkku Gifts|Bergen||Norway|NO|NOK|17|Barry|Jones|7|5,2,1,-1|London||EMEA|UK
+10185|2003-11-14 00:00:00|2003-11-20 00:00:00|Shipped||320|Mini Creations Ltd.|New Bedford|MA|USA|US|USD|17|Barry|Jones|7|5,2,1,-1|London||EMEA|UK
+10148|2003-09-11 00:00:00|2003-09-15 00:00:00|Shipped|They want to reevaluate their terms agreement with Finance.|276|Anna's Decorations, Ltd|North Sydney|NSW|Australia|AU|AUD|17|Barry|Jones|7|5,2,1,-1|London||EMEA|UK
+10147|2003-09-05 00:00:00|2003-09-09 00:00:00|Shipped||379|Collectables For Less Inc.|Brickhaven|MA|USA|US|USD|17|Barry|Jones|7|5,2,1,-1|London||EMEA|UK
+10123|2003-05-20 00:00:00|2003-05-22 00:00:00|Shipped||103|Atelier graphique|Nantes||France|FR|EUR|17|Barry|Jones|7|5,2,1,-1|London||EMEA|UK
+10391|2005-03-09 00:00:00|2005-03-15 00:00:00|Shipped||276|Anna's Decorations, Ltd|North Sydney|NSW|Australia|AU|AUD|18|Andy|Fixter|6|4,2,1,-1|Sydney||APAC|Australia
+10389|2005-03-03 00:00:00|2005-03-08 00:00:00|Shipped||448|Scandinavian Gift Ideas|Bru00e4cke||Sweden|SE|SEK|18|Andy|Fixter|6|4,2,1,-1|Sydney||APAC|Australia
+10373|2005-01-31 00:00:00|2005-02-06 00:00:00|Shipped||311|Oulu Toy Supplies, Inc.|Oulu||Finland|FI|EUR|18|Andy|Fixter|6|4,2,1,-1|Sydney||APAC|Australia
+10355|2004-12-07 00:00:00|2004-12-13 00:00:00|Shipped||141|Euro+ Shopping Channel|Madrid||Spain|ES|EUR|18|Andy|Fixter|6|4,2,1,-1|Sydney||APAC|Australia
+10352|2004-12-03 00:00:00|2004-12-09 00:00:00|Shipped||198|Auto-Moto Classics Inc.|Brickhaven|MA|USA|US|USD|18|Andy|Fixter|6|4,2,1,-1|Sydney||APAC|Australia
+10349|2004-12-01 00:00:00|2004-12-03 00:00:00|Shipped||151|Muscle Machine Inc|NYC|NY|USA|US|USD|18|Andy|Fixter|6|4,2,1,-1|Sydney||APAC|Australia
+10318|2004-11-02 00:00:00|2004-11-07 00:00:00|Shipped||157|Diecast Classics Inc.|Allentown|PA|USA|US|USD|18|Andy|Fixter|6|4,2,1,-1|Sydney||APAC|Australia
+10290|2004-09-07 00:00:00|2004-09-13 00:00:00|Shipped||198|Auto-Moto Classics Inc.|Brickhaven|MA|USA|US|USD|18|Andy|Fixter|6|4,2,1,-1|Sydney||APAC|Australia
+10276|2004-08-02 00:00:00|2004-08-08 00:00:00|Shipped||204|Online Mini Collectables|Brickhaven|MA|USA|US|USD|18|Andy|Fixter|6|4,2,1,-1|Sydney||APAC|Australia
+10247|2004-05-05 00:00:00|2004-05-08 00:00:00|Shipped||334|Suominen Souveniers|Espoo||Finland|FI|EUR|18|Andy|Fixter|6|4,2,1,-1|Sydney||APAC|Australia
+10214|2004-01-26 00:00:00|2004-01-29 00:00:00|Shipped||458|Corrida Auto Replicas, Ltd|Madrid||Spain|ES|EUR|18|Andy|Fixter|6|4,2,1,-1|Sydney||APAC|Australia
+10192|2003-11-20 00:00:00|2003-11-25 00:00:00|Shipped||363|Online Diecast Creations Co.|Nashua|NH|USA|US|USD|18|Andy|Fixter|6|4,2,1,-1|Sydney||APAC|Australia
+10191|2003-11-20 00:00:00|2003-11-24 00:00:00|Shipped|We must be cautions with this customer. Their VP of Sales resigned. Company may be heading down.|259|Toms Spezialitu00e4ten, Ltd|Ku00f6ln||Germany|DE|EUR|18|Andy|Fixter|6|4,2,1,-1|Sydney||APAC|Australia
+10189|2003-11-18 00:00:00|2003-11-24 00:00:00|Shipped|They want to reevaluate their terms agreement with Finance.|205|Toys4GrownUps.com|Pasadena|CA|USA|US|USD|18|Andy|Fixter|6|4,2,1,-1|Sydney||APAC|Australia
+10176|2003-11-06 00:00:00|2003-11-12 00:00:00|Shipped||386|L'ordine Souveniers|Reggio Emilia||Italy|IT|EUR|18|Andy|Fixter|6|4,2,1,-1|Sydney||APAC|Australia
+10157|2003-10-09 00:00:00|2003-10-14 00:00:00|Shipped||473|Frau da Collezione|Milan||Italy|IT|EUR|18|Andy|Fixter|6|4,2,1,-1|Sydney||APAC|Australia
+10139|2003-07-16 00:00:00|2003-07-21 00:00:00|Shipped||282|Souveniers And Things Co.|Chatswood|NSW|Australia|AU|AUD|18|Andy|Fixter|6|4,2,1,-1|Sydney||APAC|Australia
+10108|2003-03-03 00:00:00|2003-03-08 00:00:00|Shipped||385|Cruz & Sons Co.|Makati City||Philippines|PH|PHP|18|Andy|Fixter|6|4,2,1,-1|Sydney||APAC|Australia
+10106|2003-02-17 00:00:00|2003-02-21 00:00:00|Shipped||278|Rovelli Gifts|Bergamo||Italy|IT|EUR|18|Andy|Fixter|6|4,2,1,-1|Sydney||APAC|Australia
+10382|2005-02-17 00:00:00|2005-02-18 00:00:00|Shipped|Custom shipping instructions sent to warehouse|124|Mini Gifts Distributors Ltd.|San Rafael|CA|USA|US|USD|19|Peter|Marsh|6|4,2,1,-1|Sydney||APAC|Australia
+10363|2005-01-06 00:00:00|2005-01-10 00:00:00|Shipped||334|Suominen Souveniers|Espoo||Finland|FI|EUR|19|Peter|Marsh|6|4,2,1,-1|Sydney||APAC|Australia
+10350|2004-12-02 00:00:00|2004-12-05 00:00:00|Shipped||141|Euro+ Shopping Channel|Madrid||Spain|ES|EUR|19|Peter|Marsh|6|4,2,1,-1|Sydney||APAC|Australia
+10254|2004-06-03 00:00:00|2004-06-04 00:00:00|Shipped|Customer requested that DHL is used for this shipping|323|Down Under Souveniers, Inc|Auckland||New Zealand|NZ|NZD|19|Peter|Marsh|6|4,2,1,-1|Sydney||APAC|Australia
+10244|2004-04-29 00:00:00|2004-05-04 00:00:00|Shipped||141|Euro+ Shopping Channel|Madrid||Spain|ES|EUR|19|Peter|Marsh|6|4,2,1,-1|Sydney||APAC|Australia
+10240|2004-04-13 00:00:00|2004-04-20 00:00:00|Shipped||177|Osaka Souveniers Co.|Osaka|Osaka|Japan|JP|JPY|19|Peter|Marsh|6|4,2,1,-1|Sydney||APAC|Australia
+10231|2004-03-19 00:00:00|2004-03-25 00:00:00|Shipped||344|CAF Imports|Madrid||Spain|ES|EUR|19|Peter|Marsh|6|4,2,1,-1|Sydney||APAC|Australia
+10219|2004-02-10 00:00:00|2004-02-12 00:00:00|Shipped||487|Signal Collectibles Ltd.|Brisbane|CA|USA|US|USD|19|Peter|Marsh|6|4,2,1,-1|Sydney||APAC|Australia
+10200|2003-12-01 00:00:00|2003-12-06 00:00:00|Shipped||211|King Kong Collectables, Co.|Central Hong Kong||Hong Kong|HK|HKD|19|Peter|Marsh|6|4,2,1,-1|Sydney||APAC|Australia
+10199|2003-12-01 00:00:00|2003-12-06 00:00:00|Shipped||475|West Coast Collectables Co.|Burbank|CA|USA|US|USD|19|Peter|Marsh|6|4,2,1,-1|Sydney||APAC|Australia
+10178|2003-11-08 00:00:00|2003-11-10 00:00:00|Shipped|Custom shipping instructions sent to warehouse|242|Alpha Cognac|Toulouse||France|FR|EUR|19|Peter|Marsh|6|4,2,1,-1|Sydney||APAC|Australia
+10173|2003-11-05 00:00:00|2003-11-09 00:00:00|Shipped|Cautious optimism. We have happy customers here, if we can keep them well stocked.  I need all the information I can get on the planned shippments of Porches|278|Rovelli Gifts|Bergamo||Italy|IT|EUR|19|Peter|Marsh|6|4,2,1,-1|Sydney||APAC|Australia
+10130|2003-06-16 00:00:00|2003-06-21 00:00:00|Shipped||198|Auto-Moto Classics Inc.|Brickhaven|MA|USA|US|USD|19|Peter|Marsh|6|4,2,1,-1|Sydney||APAC|Australia
+10402|2005-04-07 00:00:00|2005-04-12 00:00:00|Shipped||406|Auto Canal+ Petit|Paris||France|FR|EUR|20|Tom|King|6|4,2,1,-1|Sydney||APAC|Australia
+10400|2005-04-01 00:00:00|2005-04-04 00:00:00|Shipped|Customer requested that DHL is used for this shipping|450|The Sharp Gifts Warehouse|San Jose|CA|USA|US|USD|20|Tom|King|6|4,2,1,-1|Sydney||APAC|Australia
+10381|2005-02-17 00:00:00|2005-02-18 00:00:00|Shipped||321|Corporate Gift Ideas Co.|San Francisco|CA|USA|US|USD|20|Tom|King|6|4,2,1,-1|Sydney||APAC|Australia
+10367|2005-01-12 00:00:00|2005-01-16 00:00:00|Resolved|This order was disputed and resolved on 2/1/2005. Customer claimed that container with shipment was damaged. FedEx's investigation proved this wrong.|205|Toys4GrownUps.com|Pasadena|CA|USA|US|USD|20|Tom|King|6|4,2,1,-1|Sydney||APAC|Australia
+10340|2004-11-24 00:00:00|2004-11-25 00:00:00|Shipped|Customer is interested in buying more Ferrari models|216|Enaco Distributors|Barcelona||Spain|ES|EUR|20|Tom|King|6|4,2,1,-1|Sydney||APAC|Australia
+10330|2004-11-16 00:00:00|2004-11-21 00:00:00|Shipped||385|Cruz & Sons Co.|Makati City||Philippines|PH|PHP|20|Tom|King|6|4,2,1,-1|Sydney||APAC|Australia
+10308|2004-10-15 00:00:00|2004-10-20 00:00:00|Shipped|Customer requested that FedEx Ground is used for this shipping|319|Mini Classics|White Plains|NY|USA|US|USD|20|Tom|King|6|4,2,1,-1|Sydney||APAC|Australia
+10271|2004-07-20 00:00:00|2004-07-23 00:00:00|Shipped||124|Mini Gifts Distributors Ltd.|San Rafael|CA|USA|US|USD|20|Tom|King|6|4,2,1,-1|Sydney||APAC|Australia
+10267|2004-07-07 00:00:00|2004-07-09 00:00:00|Shipped||151|Muscle Machine Inc|NYC|NY|USA|US|USD|20|Tom|King|6|4,2,1,-1|Sydney||APAC|Australia
+10250|2004-05-11 00:00:00|2004-05-15 00:00:00|Shipped||450|The Sharp Gifts Warehouse|San Jose|CA|USA|US|USD|20|Tom|King|6|4,2,1,-1|Sydney||APAC|Australia
+10235|2004-04-02 00:00:00|2004-04-06 00:00:00|Shipped||260|Royal Canadian Collectables, Ltd.|Tsawassen|BC|Canada|CA|CAD|20|Tom|King|6|4,2,1,-1|Sydney||APAC|Australia
+10225|2004-02-22 00:00:00|2004-02-24 00:00:00|Shipped||298|Vida Sport, Ltd|Genu00e8ve||Switzerland|CH|CHF|20|Tom|King|6|4,2,1,-1|Sydney||APAC|Australia
+10218|2004-02-09 00:00:00|2004-02-11 00:00:00|Shipped|Customer requested that ad materials (such as posters, pamphlets) be included in the shippment|473|Frau da Collezione|Milan||Italy|IT|EUR|20|Tom|King|6|4,2,1,-1|Sydney||APAC|Australia
+10186|2003-11-14 00:00:00|2003-11-18 00:00:00|Shipped|They want to reevaluate their terms agreement with the VP of Sales|489|Double Decker Gift Stores, Ltd|London||UK|UK|GBP|20|Tom|King|6|4,2,1,-1|Sydney||APAC|Australia
+10160|2003-10-11 00:00:00|2003-10-17 00:00:00|Shipped||347|Men 'R' US Retailers, Ltd.|Los Angeles|CA|USA|US|USD|20|Tom|King|6|4,2,1,-1|Sydney||APAC|Australia
+10158|2003-10-10 00:00:00|2003-10-15 00:00:00|Shipped||121|Baane Mini Imports|Stavern||Norway|NO|NOK|20|Tom|King|6|4,2,1,-1|Sydney||APAC|Australia
+10138|2003-07-07 00:00:00|2003-07-13 00:00:00|Shipped||496|Kelly's Gift Shop|Auckland||New Zealand|NZ|NZD|20|Tom|King|6|4,2,1,-1|Sydney||APAC|Australia
+10113|2003-03-26 00:00:00|2003-03-27 00:00:00|Shipped||124|Mini Gifts Distributors Ltd.|San Rafael|CA|USA|US|USD|20|Tom|King|6|4,2,1,-1|Sydney||APAC|Australia
+10420|2005-05-29 00:00:00|2006-08-23 11:49:20|In Process||282|Souveniers And Things Co.|Chatswood|NSW|Australia|AU|AUD|21|Mami|Nishi|5|4,2,1,-1|Tokyo|Chiyoda-Ku|Japan|Japan
+10406|2005-04-15 00:00:00|2005-04-21 00:00:00|Disputed|Customer claims container with shipment was damaged during shipping and some items were missing. I am talking to FedEx about this.|145|Danish Wholesale Imports|Kobenhavn||Denmark|DK|DKK|21|Mami|Nishi|5|4,2,1,-1|Tokyo|Chiyoda-Ku|Japan|Japan
+10393|2005-03-11 00:00:00|2005-03-14 00:00:00|Shipped|They want to reevaluate their terms agreement with Finance.|323|Down Under Souveniers, Inc|Auckland||New Zealand|NZ|NZD|21|Mami|Nishi|5|4,2,1,-1|Tokyo|Chiyoda-Ku|Japan|Japan
+10372|2005-01-26 00:00:00|2005-01-28 00:00:00|Shipped||398|Tokyo Collectables, Ltd|Minato-ku|Tokyo|Japan|JP|JPY|21|Mami|Nishi|5|4,2,1,-1|Tokyo|Chiyoda-Ku|Japan|Japan
+10368|2005-01-19 00:00:00|2005-01-24 00:00:00|Shipped|Can we renegotiate this one?|124|Mini Gifts Distributors Ltd.|San Rafael|CA|USA|US|USD|21|Mami|Nishi|5|4,2,1,-1|Tokyo|Chiyoda-Ku|Japan|Japan
+10326|2004-11-09 00:00:00|2004-11-10 00:00:00|Shipped||144|Volvo Model Replicas, Co|Luleu00e5||Sweden|SE|SEK|21|Mami|Nishi|5|4,2,1,-1|Tokyo|Chiyoda-Ku|Japan|Japan
+10295|2004-09-10 00:00:00|2004-09-14 00:00:00|Shipped|They want to reevaluate their terms agreement with Finance.|362|Gifts4AllAges.com|Boston|MA|USA|US|USD|21|Mami|Nishi|5|4,2,1,-1|Tokyo|Chiyoda-Ku|Japan|Japan
+10292|2004-09-08 00:00:00|2004-09-11 00:00:00|Shipped|They want to reevaluate their terms agreement with Finance.|131|Land of Toys Inc.|NYC|NY|USA|US|USD|21|Mami|Nishi|5|4,2,1,-1|Tokyo|Chiyoda-Ku|Japan|Japan
+10284|2004-08-21 00:00:00|2004-08-26 00:00:00|Shipped|Custom shipping instructions sent to warehouse|299|Norway Gifts By Mail, Co.|Oslo||Norway|NO|NOK|21|Mami|Nishi|5|4,2,1,-1|Tokyo|Chiyoda-Ku|Japan|Japan
+10270|2004-07-19 00:00:00|2004-07-24 00:00:00|Shipped|Can we renegotiate this one?|282|Souveniers And Things Co.|Chatswood|NSW|Australia|AU|AUD|21|Mami|Nishi|5|4,2,1,-1|Tokyo|Chiyoda-Ku|Japan|Japan
+10268|2004-07-12 00:00:00|2004-07-14 00:00:00|Shipped||412|Extreme Desk Decorations, Ltd|Wellington||New Zealand|NZ|NZD|21|Mami|Nishi|5|4,2,1,-1|Tokyo|Chiyoda-Ku|Japan|Japan
+10265|2004-07-02 00:00:00|2004-07-07 00:00:00|Shipped||471|Australian Collectables, Ltd|Glen Waverly|Victoria|Australia|AU|AUD|21|Mami|Nishi|5|4,2,1,-1|Tokyo|Chiyoda-Ku|Japan|Japan
+10256|2004-06-08 00:00:00|2004-06-10 00:00:00|Shipped||145|Danish Wholesale Imports|Kobenhavn||Denmark|DK|DKK|21|Mami|Nishi|5|4,2,1,-1|Tokyo|Chiyoda-Ku|Japan|Japan
+10239|2004-04-12 00:00:00|2004-04-17 00:00:00|Shipped||311|Oulu Toy Supplies, Inc.|Oulu||Finland|FI|EUR|21|Mami|Nishi|5|4,2,1,-1|Tokyo|Chiyoda-Ku|Japan|Japan
+10226|2004-02-26 00:00:00|2004-03-02 00:00:00|Shipped||239|Collectable Mini Designs Co.|San Diego|CA|USA|US|USD|21|Mami|Nishi|5|4,2,1,-1|Tokyo|Chiyoda-Ku|Japan|Japan
+10193|2003-11-21 00:00:00|2003-11-27 00:00:00|Shipped||471|Australian Collectables, Ltd|Glen Waverly|Victoria|Australia|AU|AUD|21|Mami|Nishi|5|4,2,1,-1|Tokyo|Chiyoda-Ku|Japan|Japan
+10172|2003-11-05 00:00:00|2003-11-11 00:00:00|Shipped||175|Gift Depot Inc.|Bridgewater|CT|USA|US|USD|21|Mami|Nishi|5|4,2,1,-1|Tokyo|Chiyoda-Ku|Japan|Japan
+10125|2003-05-21 00:00:00|2003-05-24 00:00:00|Shipped||114|Australian Collectors, Co.|Melbourne|Victoria|Australia|AU|AUD|21|Mami|Nishi|5|4,2,1,-1|Tokyo|Chiyoda-Ku|Japan|Japan
+10362|2005-01-05 00:00:00|2005-01-10 00:00:00|Shipped||161|Technics Stores Inc.|Burlingame|CA|USA|US|USD|22|Yoshimi|Kato|5|4,2,1,-1|Tokyo|Chiyoda-Ku|Japan|Japan
+10329|2004-11-15 00:00:00|2004-11-16 00:00:00|Shipped||131|Land of Toys Inc.|NYC|NY|USA|US|USD|22|Yoshimi|Kato|5|4,2,1,-1|Tokyo|Chiyoda-Ku|Japan|Japan
+10285|2004-08-27 00:00:00|2004-08-31 00:00:00|Shipped||286|Marta's Replicas Co.|Cambridge|MA|USA|US|USD|22|Yoshimi|Kato|5|4,2,1,-1|Tokyo|Chiyoda-Ku|Japan|Japan
+10283|2004-08-20 00:00:00|2004-08-23 00:00:00|Shipped||260|Royal Canadian Collectables, Ltd.|Tsawassen|BC|Canada|CA|CAD|22|Yoshimi|Kato|5|4,2,1,-1|Tokyo|Chiyoda-Ku|Japan|Japan
+10257|2004-06-14 00:00:00|2004-06-15 00:00:00|Shipped||450|The Sharp Gifts Warehouse|San Jose|CA|USA|US|USD|22|Yoshimi|Kato|5|4,2,1,-1|Tokyo|Chiyoda-Ku|Japan|Japan
+10252|2004-05-26 00:00:00|2004-05-29 00:00:00|Shipped||406|Auto Canal+ Petit|Paris||France|FR|EUR|22|Yoshimi|Kato|5|4,2,1,-1|Tokyo|Chiyoda-Ku|Japan|Japan
+10245|2004-05-04 00:00:00|2004-05-09 00:00:00|Shipped||455|Super Scale Inc.|New Haven|CT|USA|US|USD|22|Yoshimi|Kato|5|4,2,1,-1|Tokyo|Chiyoda-Ku|Japan|Japan
+10230|2004-03-15 00:00:00|2004-03-20 00:00:00|Shipped|Customer very concerned about the exact color of the models. There is high risk that he may dispute the order because there is a slight color mismatch|128|Blauer See Auto, Co.|Frankfurt||Germany|DE|EUR|22|Yoshimi|Kato|5|4,2,1,-1|Tokyo|Chiyoda-Ku|Japan|Japan
+10175|2003-11-06 00:00:00|2003-11-09 00:00:00|Shipped||324|Stylish Desk Decors, Co.|London||UK|UK|GBP|22|Yoshimi|Kato|5|4,2,1,-1|Tokyo|Chiyoda-Ku|Japan|Japan
+10145|2003-08-25 00:00:00|2003-08-31 00:00:00|Shipped||205|Toys4GrownUps.com|Pasadena|CA|USA|US|USD|22|Yoshimi|Kato|5|4,2,1,-1|Tokyo|Chiyoda-Ku|Japan|Japan
+11130|2003-01-06 12:00:00|2003-01-10 12:00:00|Shipped||98|Johnson Inc|ST Cloud|FL|USA|US|USD|23|Martin|Gerard|4|5,2,1,-1|Paris||EMEA|France
+10407|2005-04-22 00:00:00|2006-08-23 11:49:20|On Hold|Customer credit limit exceeded. Will ship when a payment is received.|450|The Sharp Gifts Warehouse|San Jose|CA|USA|US|USD|23|Martin|Gerard|4|5,2,1,-1|Paris||EMEA|France
+10336|2004-11-20 00:00:00|2004-11-24 00:00:00|Shipped|Customer requested that DHL is used for this shipping|172|La Corne D'abondance, Co.|Paris||France|FR|EUR|23|Martin|Gerard|4|5,2,1,-1|Paris||EMEA|France
+10289|2004-09-03 00:00:00|2004-09-04 00:00:00|Shipped|We need to keep in close contact with their Marketing VP. He is the decision maker for all their purchases.|167|Herkku Gifts|Bergen||Norway|NO|NOK|23|Martin|Gerard|4|5,2,1,-1|Paris||EMEA|France
+10287|2004-08-30 00:00:00|2004-09-01 00:00:00|Shipped||298|Vida Sport, Ltd|Genu00e8ve||Switzerland|CH|CHF|23|Martin|Gerard|4|5,2,1,-1|Paris||EMEA|France
+10224|2004-02-21 00:00:00|2004-02-26 00:00:00|Shipped|Customer has worked with some of our vendors in the past and is aware of their MSRP|171|Daedalus Designs Imports|Lille||France|FR|EUR|23|Martin|Gerard|4|5,2,1,-1|Paris||EMEA|France
+10205|2003-12-03 00:00:00|2003-12-07 00:00:00|Shipped| I need all the information I can get on our competitors.|141|Euro+ Shopping Channel|Madrid||Spain|ES|EUR|23|Martin|Gerard|4|5,2,1,-1|Paris||EMEA|France
+10194|2003-11-25 00:00:00|2003-11-26 00:00:00|Shipped||146|Saveley & Henriot, Co.|Lyon||France|FR|EUR|23|Martin|Gerard|4|5,2,1,-1|Paris||EMEA|France
+10184|2003-11-14 00:00:00|2003-11-20 00:00:00|Shipped||484|Iberia Gift Imports, Corp.|Sevilla||Spain|ES|EUR|23|Martin|Gerard|4|5,2,1,-1|Paris||EMEA|France
+10129|2003-06-12 00:00:00|2003-06-14 00:00:00|Shipped||324|Stylish Desk Decors, Co.|London||UK|UK|GBP|23|Martin|Gerard|4|5,2,1,-1|Paris||EMEA|France
+10103|2003-01-29 00:00:00|2003-02-02 00:00:00|Shipped||121|Baane Mini Imports|Stavern||Norway|NO|NOK|23|Martin|Gerard|4|5,2,1,-1|Paris||EMEA|France
